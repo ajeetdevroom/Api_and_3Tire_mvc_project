@@ -1,0 +1,14 @@
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\bin\Debug\netcoreapp2.1\RikeshServices_API.deps.json
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\bin\Debug\netcoreapp2.1\RikeshServices_API.runtimeconfig.json
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\bin\Debug\netcoreapp2.1\RikeshServices_API.runtimeconfig.dev.json
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\bin\Debug\netcoreapp2.1\RikeshServices_API.dll
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.csproj.CoreCompileInputs.cache
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.RazorAssemblyInfo.cache
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.RazorAssemblyInfo.cs
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.AssemblyInfoInputs.cache
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.AssemblyInfo.cs
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.RazorTargetAssemblyInfo.cache
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\bin\Debug\netcoreapp2.1\RikeshServices_API.pdb
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.dll
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.pdb
+D:\RikeshAPI\RikeshServices_API\RikeshServices_API\obj\Debug\netcoreapp2.1\RikeshServices_API.csprojAssemblyReference.cache
